@@ -1,6 +1,8 @@
-# Taller de Introducción Rápida a la IA 2025
+# Taller de Introducción Rápida a la IA y ML 
 
-¡Bienvenida al taller de introducción rápida a la IA y ML 2025! Este taller está diseñado para proporcionar una mapa general rápido y práctica de la inteligencia artificial y ML.
+Version: (2025)
+
+¡Bienvenida al taller de introducción rápida a la IA y ML! Este taller está diseñado para proporcionar una mapa general rápido y práctica de la inteligencia artificial y ML.
 
 ## Sobre este repositorio
 Este repositiorio tiene ejemplos prácticos para la sesión. Todos pueden abrirse presionando el botón `open in colab`.
